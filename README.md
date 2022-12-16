@@ -41,12 +41,12 @@ I am a self-taught software engineer with a passion for creating solutions to re
 <br>
  
 
+<!---
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=raw0ol&theme=calm&show_icons=true&hide=contribs,issues)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raw0ol&layout=compact&exclude_repo=raw0ol.github.io&hide=swift)
 
-
-<!---
 raw0ol/raw0ol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
